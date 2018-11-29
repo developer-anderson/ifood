@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/anderson/AndroidStudioProjects/Ifood/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/anderson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b4c277e2b31dbc8a84b905998efa2dc/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/anderson/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/91eee0e95ee17ec50695cae6a7d4f74a/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "224",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "401"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        }
+    ]
+}

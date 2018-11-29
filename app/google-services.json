@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "921949257552",
+    "firebase_url": "https://turismo-bahia-f4107.firebaseio.com",
+    "project_id": "turismo-bahia-f4107",
+    "storage_bucket": "turismo-bahia-f4107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921949257552:android:97d5d0041ca86ecb",
+        "android_client_info": {
+          "package_name": "br.com.ifood.cursoandroid.ifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921949257552-7g7gmbh35j2rdr022kmjld2s2gpmo0pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ifood.cursoandroid.ifood",
+            "certificate_hash": "074efe60f7959e6b9338925f3438efe7185950b7"
+          }
+        },
+        {
+          "client_id": "921949257552-ko4nu3ntvguh73qtjusm4tsnhi3bebcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1DknyWp4qj9zEMArlj6bWvsMS6TaAtPE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921949257552-ko4nu3ntvguh73qtjusm4tsnhi3bebcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
